@@ -1,11 +1,22 @@
 # Iris Flower Classification
 
-This project classifies Iris flowers using Machine Learning.
+## Objective
+Build and compare machine learning models to classify Iris flower species using the Iris dataset.
 
-## Algorithms Used
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Google Colab
+
+## Models Used
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
 - Random Forest
 
-## Result
-All three models achieved high accuracy on the Iris dataset.
+## Files
+- Project_02_Iris_Classification.ipynb
+
+## Outcome
+Trained and evaluated multiple machine learning models and compared their performance using accuracy scores and a confusion matrix.
